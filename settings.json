@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 45,
       "messages": [
         "Not Even close Baby Technoblade never dies",
         "Subscribe to Vishv Playz",
