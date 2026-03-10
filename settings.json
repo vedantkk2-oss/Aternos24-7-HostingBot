@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 60,
       "messages": [
-        "I'm a regular player",
+        "Not Even close Baby Technoblade never dies",
         "Subscribe to Vishv Playz",
-        "And Vedant is Pro|"
+        "Vedant Is Pro!|"
       ]
     },
     "chat-log": true,
